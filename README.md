@@ -1,0 +1,1 @@
+this app allows the user to input text and the app outputs the audio version of the text, the pitch, volume and speed can be adjusted, similarly the user can alternate between two different lamguages.
